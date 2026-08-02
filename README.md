@@ -36,7 +36,9 @@ python main.py
 > **Если кнопки не нажимаются в игре:** закройте скрипт, запустите вашу среду разработки (VS Code / Terminal) **от имени администратора** и запустите код заново. Играм часто нужны админ-права для перехвата клавиш.
 
 
-## English Language
+
+
+# English Language
 
 A simple Python clicker for auto-farming goals in the Phasmophobia lobby. It runs on optimally fast settings (simulating real keyboard inputs), so the game does not block it.
 
